@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdulazizgafforaliyev
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning guis
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning DSA
+- 💞️ I’m looking to collaborate on Full stack development
 - 📫 How to reach me abdulazizgafforaliyev.fps@gmail.com
 
 <!---
