@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdulazizgafforaliyev
-- 👀 I’m interested in programming
+- 👀 I’m a Frontend developer
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Full stack development
 - 📫 How to reach me abdulazizgafforaliyev.fps@gmail.com
